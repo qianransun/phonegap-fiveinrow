@@ -16,7 +16,7 @@
 
     <content src="https://five-in-row.com/?phonegapPlugins=v105" />
     
-    <name>five in row</name>
+    <name>five-in-row</name>
     <author email="qianransun@yahoo.com">
         qianransun@yahoo.com
     </author>
@@ -129,7 +129,7 @@
       gap:plugin spec="https://github.com/jeduan/cordova-plugin-facebook4#aff9a08a86cc6c6a18019f7adc2896ddf97c11cd" source="git" -->
     <gap:plugin name="cordova-plugin-facebook4" source="npm" spec="1.7.4">
         <param name="APP_ID" value="1194340964022409" />
-        <param name="APP_NAME" value="five in row" />
+        <param name="APP_NAME" value="five-in-row" />
     </gap:plugin>
 
     <!--
